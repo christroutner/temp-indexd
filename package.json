@@ -16,6 +16,7 @@
     "leveldown": "^6.1.0",
     "qup": "^3.0.1",
     "run-parallel": "^1.2.0",
-    "yajrpc": "^1.4.4"
+    "yajrpc": "^1.4.4",
+    "zeromq": "^5.2.8"
   }
 }
