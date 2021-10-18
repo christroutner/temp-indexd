@@ -1,0 +1,21 @@
+{
+  "name": "indexd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.2.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "indexd": "^0.7.3",
+    "leveldown": "^6.1.0",
+    "qup": "^3.0.1",
+    "run-parallel": "^1.2.0",
+    "yajrpc": "^1.4.4"
+  }
+}
